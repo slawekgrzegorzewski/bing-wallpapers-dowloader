@@ -1,0 +1,1 @@
+ C:\Users\slawe\AppData\Local\Programs\Python\Python311\python.exe "D:/Development/BingWalpapersDownloader/main.py" "D:/OneDrive/Obrazy/Wallpapers/"
